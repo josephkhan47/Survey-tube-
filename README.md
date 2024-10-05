@@ -45,11 +45,11 @@
     <div class="balance">Your Balance: £0.00</div>
 
     <!-- Updated URLs -->
-    <a href="https://google.com/signin" class="button">Sign Up for Surveys</a>
+    <a href="https://gmail.com" class="button">Sign Up for Surveys</a>
     <br>
     <a href="https://paypal.com" class="button">Cash Out to PayPal</a>
     <br>
-    <a href="https://google.com/signin" class="button">Convert Points to £</a>
+    <a href="https://google.com" class="button">Convert Points to £</a>
     
     <p>Note: You need to sign in to your PayPal account to cash out.</p>
 </body>
